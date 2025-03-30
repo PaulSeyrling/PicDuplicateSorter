@@ -17,11 +17,11 @@ Ein Node.js-Tool zum Erkennen und Verwalten von doppelten Bildern in deiner Samm
 1. Stelle sicher, dass [Node.js](https://nodejs.org/) auf deinem System installiert ist
 2. Klone dieses Repository:
    ```
-   git clone https://github.com/dein-username/PicSorter.git
+   git clone https://github.com/PaulSeyrling/PicDuplicateSorter.git
    ```
 3. Wechsle in das Projektverzeichnis:
    ```
-   cd PicSorter
+   cd PicDuplicateSorter
    ```
 4. Installiere die Abhängigkeiten:
    ```
