@@ -1,4 +1,4 @@
-# PicSorter
+# PicDuplicateSorter
 
 Ein Node.js-Tool zum Erkennen und Verwalten von doppelten Bildern in deiner Sammlung.
 
