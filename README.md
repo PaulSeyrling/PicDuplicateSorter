@@ -82,4 +82,4 @@ PicSorter verwendet Perceptual Hashing (pHash), um ähnliche Bilder zu erkennen,
 
 ## Lizenz
 
-[MIT](LICENSE)
+[GNU General Public License v3.0](LICENSE)
